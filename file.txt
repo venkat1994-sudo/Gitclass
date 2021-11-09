@@ -6,3 +6,6 @@ Please consider him as lateral entry
 
 Commit 1
 
+Rewriting the code
+
+Commit 2
