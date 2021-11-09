@@ -4,3 +4,7 @@ please consider
 
 Commit 3
 
+
+Rewriting the code Part
+
+Commit 4
